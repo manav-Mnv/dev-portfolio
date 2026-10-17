@@ -1,5 +1,9 @@
 # Manav — Portfolio
 
+![Status](https://img.shields.io/badge/status-completed-1f6feb?style=flat-square)
+
+> My main site now lives in **[M-N-V---webpage](https://github.com/manav-Mnv/M-N-V---webpage)** ([mnvv.netlify.app](https://mnvv.netlify.app)).
+
 An AI/ML focused developer portfolio showcasing projects in computer vision, backend systems, and optimization.
 
 ## Tech Stack
